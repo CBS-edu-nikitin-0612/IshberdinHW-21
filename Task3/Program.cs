@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Threading.Tasks;
-using System.Threading;
 using System.Collections.Generic;
 
 //Используя Visual Studio, создайте проект по шаблону Console Application. Создайте класс MyDictionary. 
